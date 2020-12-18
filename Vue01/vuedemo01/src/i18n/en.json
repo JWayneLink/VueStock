@@ -1,0 +1,89 @@
+{
+    "title": "This is English Message",
+    "NavBar":{
+        "Home":"Home",
+        "About":"About",
+        "Contact":"Contact",
+        "Lang":
+            {
+                "title":"Lang",
+                "langs":["EN","ZH","JA"]
+            },
+        "User":
+        {
+            "title":"User",
+            "actions":["Login","Account","Setting"]
+        }
+    },
+    "aboutInfo":{
+        "Establishment":
+            {
+                "title":"Date of Establishment",
+                "content":"1975/06/09"
+            },
+        "Employees":
+            {
+                "title":"Total Employees",
+                "content":"34,721 (2020/10/31)"
+            },
+        "Headquarter":
+            {
+                "title":"Operation Headquarter",
+                "content":"Located in Taipei City, of Taiwan with operations globally (Asia, North America & Europe)"
+            },
+        "Revenue":
+            {
+                "title":"Annual Revenue",
+                "content":"NTD 500.9 billion (2019)"
+            },
+        "content1":"Founded in 1975, Inventec manufactures computers, telephones, notebooks, and servers and has developed a strong foundation for global success. Upon entering the 21st century, our company has become even more active in such industries as cloud computing, wireless communication, intelligent devices, IoT, and green energy.",
+        "content2":"For many years, the business concepts of Inventec have been “Innovation, Quality, Open Mind, and Execution.” Thanks to our variety of products, strategic alliances, supply-chain integration, expanded business scale, and enhanced long-term competitiveness, we have become among the best system, software, and service company. At the forefront of our corporate beliefs are “Talent Assets” and “Social Responsibility.” The combination of business concepts and corporate beliefs create the core of Inventec that encourages us to embrace sustainable operations."
+    },
+    "contactInfo":{
+        "Pudong":
+        {
+            "title":"Inventec(Pudong) Corp",
+            "content":"201114 No.699 Puxing Road, Minhang District,Shanghai, China\nTEL:86-21-6429-8888\nFAX:86-21-6429-8848\nWEB:www.inventec.com.cn"
+        },
+        "Pudong2":
+        {
+            "title":"Inventec (Pudong) Technology Corp",
+            "content":"201114 No.789 Puxing Road, Minhang District, Shanghai, China\nTEL:86-21-6429-8888\nFAX:86-21-6429-8848\nWEB:www.inventec.com.cn"
+        },
+        "HiTech":
+        {
+            "title":"Inventec Hi-Tech Corp",
+            "content":"201114 No.789 Puxing Road, Minhang District, Shanghai, China\nTEL:86-21-6429-8888\nFAX:86-21-6429-8848\nWEB:www.inventec.com.cn"
+        },
+        "Shanghai":
+        {
+            "title":"Inventec (Shanghai) Service Co., Ltd",
+            "content":"200233 2F Building, No.1295, Yi Shan Road Shanghai , China\nTEL:86-21-6429-8888\nFAX:86-21-6429-8848\nWEB:www.inventec.com.cn"
+        },
+        "Zhejiang":
+        {
+            "title":"Inventec Huan Hsin (Zhejiang) Technology",
+            "content":"No. 8., XinDa Road, Huimin Avenue ,Jiashan County, Zhejiang Province, China\nTEL:86-0573-8910-8888\nFAX:86-0573-8910-6688\nWEB:www.inventec.com.cn"
+        },
+        "ChongQing":
+        {
+            "title":"Inventec（ChongQing）Corporation",
+            "content":"No. 66, West Dist. Ⅱ Rd, Shapingba District, ChongQing, China\nTEL:86-23-6539-8888\nFAX:86-23-6153-1730\nWEB:www.inventec.com.cn"
+        },
+        "ChongQing2":
+        {
+            "title":"Inventec（ChongQing）Service Co., Ltd",
+            "content":"3F Building NO.98 Xiqu Sceond Road, Shapingba District, ChongQing, China\nTEL:86-23-6539-8888\nFAX:86-23-6153-1730\nWEB:www.inventec.com.cn"
+        },
+        "Tianjin":
+        {
+            "title":"Inventec (Tianjin) Electronics Co.Ltd",
+            "content":"No.38 XiHu Road，NanKai District，TianJin，P.R.China\nTEL:86-22-23000058\nFAX:86-22-23000058"
+        },
+        "Beijing":
+        {
+            "title":"Inventec ( Beijing) Eletronics technology",
+            "content":"A1505, E-Wing Center, No.113 Zhichun Rd. Haidian District, Beijing China, 100086\nTEL:86-10-6418-5165\nFAX:86-010-62640018"
+        }
+    }
+}

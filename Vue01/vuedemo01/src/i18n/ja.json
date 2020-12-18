@@ -1,0 +1,90 @@
+{
+    "title": "This is English Message",
+    "NavBar":{
+        "Home":"ホーム",
+        "About":"オン",
+        "Contact":"私に連絡して",
+        "Lang":
+            {
+                "title":"言語",
+                "langs":["EN","ZH","JA"]
+            },
+        "User":
+        {
+            "title":"ユーザー",
+            "actions":["ログインする","アカウント","セットアップ"]
+        }
+    },
+    "aboutInfo":{
+        "Establishment":
+            {
+                "title":"設立日",
+                "content":"1975/06/09"
+            },
+        "Employees":
+            {
+                "title":"総従業員",
+                "content":"34,721 (2020/10/31)"
+            },
+        "Headquarter":
+            {
+                "title":"本社",
+                "content":"台湾の台北市にあり、グローバルに事業を展開しています（アジア、北米、ヨーロッパ）。"
+            },
+        "Revenue":
+            {
+                "title":"歳入",
+                "content":"5,009億NTD（2019）"
+            },
+        "content1":"1975年に設立されたInventecは、コンピューター、電話、ノートブック、サーバーを製造し、グローバルな成功のための強力な基盤を築いてきました。 21世紀に入ると、当社はクラウドコンピューティング、無線通信、インテリジェントデバイス、IoT、グリーンエネルギーなどの業界でさらに活発になりました。",
+        "content2":"長年にわたり、Inventecのビジネスコンセプトは「革新、品質、オープンマインド、そして実行」でした。 さまざまな製品、戦略的提携、サプライチェーンの統合、事業規模の拡大、長期的な競争力の強化のおかげで、当社は最高のシステム、ソフトウェア、およびサービス企業の1つになりました。 私たちの企業信念の最前線には、「才能のある資産」と「社会的責任」があります。 ビジネスコンセプトと企業信念の組み合わせは、持続可能な事業を受け入れることを奨励するインベンテックのコアを作成します。"
+    },
+    "contactInfo":{
+        "Pudong":
+        {
+            "title":"Yingshunda Technology Co.、Ltd。",
+            "content":"200233 2階、No。1295、Yishan Road、Caohejing Development Zone、上海\n電話：86-21-6429-8888\nファックス：86-21-6429-8848\nウェブサイト：www.inventec.com.cn"
+        },
+        "Pudong2":
+        {
+            "title":"インベンテックテクノロジー株式会社",
+            "content":"201114 No.789 Puxing Road、Minhang District、Shanghai\n電話：86-21-6429-8888\nファックス：86-21-6429-8848\nウェブサイト：www.inventec.com.cn"
+        },
+        "HiTech":
+        {
+            "title":"Yingyuanda Technology Co.、Ltd。",
+            "content":"201114 No.789 Puxing Road、Minhang District、Shanghai\n電話：86-21-6429-8888\nファックス：86-21-6429-8848\nウェブサイト：www.inventec.com.cn"
+        },
+        "Shanghai":
+        {
+            "title":"Yingshunyuan（Shanghai）Technology Co.、Ltd。",
+            "content":"200233 2階、No。1295、Yishan Road、Caohejing Development Zone、上海\n電話：86-21-6429-8888\nファックス：86-21-6429-8848\nウェブサイト：www.inventec.com.cn"
+        },
+        "Zhejiang":
+        {
+            "title":"Zhejiang Yingxinda Electronic Technology Co.、Ltd。",
+            "content":"No. 8 Xinda Road、Huimin Street、Jiashan County、Zhejiang Province\nTel：86-0573-8910-8888\nFax：86-0573-8910-6688\nWebsite：www.inventec.com.cn"
+        },
+        "ChongQing":
+        {
+            "title":"Inventec（Chongqing）Co.、Ltd。",
+            "content":"No. 66、Second Road、West District、Shapingba District、Chongqing\nTel：86-23-6539-8888\nFax：86-23-6153-1730\nWebsite：www.inventec.com.cn"
+        },
+        "ChongQing2":
+        {
+            "title":"Yingshunyuan（Chongqing）Technology Co.、Ltd。",
+            "content":"Chongqing、Shapingba District、West District、Second Road、No。98、3階\n電話：86-23-6539-8888\nファックス：86-23-6153-1730\nウェブサイト：www.inventec.com.cn"
+        },
+        "Tianjin":
+        {
+            "title":"Inventec Group（Tianjin）Electronic Technology Co.、Ltd。",
+            "content":"天津南海区西湖路38号\n電話：86-22-23000058\nファックス：86-22-23000058"
+        },
+        "Beijing":
+        {
+            "title":"Inventec Group（Beijing）Electronic Technology Co.、Ltd。",
+            "content":"北京海田区志春路113号A棟15階1505-1508号室\n電話：86-10-6418-5165\nファックス：86-010-62640018"
+        }
+    }
+
+}
