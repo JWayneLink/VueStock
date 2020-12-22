@@ -37,10 +37,16 @@
             skill: 'npm install vue-i18n'
           },
           {
-            skill: 'npm install --save axios vue-axios'
+            skill: 'npm install axios vue-axios --save'
           },
           {
             skill: 'npm install vuex --save'
+          },
+          {
+            skill: 'npm install chart.js --save'
+          },
+          {
+            skill: 'npm install vue-chartjs chart.js --save'
           }
         ]
       }
