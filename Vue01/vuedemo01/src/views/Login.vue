@@ -18,7 +18,7 @@
         </div>
 
         <!-- User 小抄 -->
-        <div>
+        <!-- <div>
             <table>
                 <thead>
                     <tr>
@@ -31,7 +31,7 @@
                     </tr>
                 </tbody>
             </table>
-        </div>
+        </div> -->
     </div>
 </template>
 
@@ -81,6 +81,7 @@
         flex-direction: column;
         max-width: 400px;
         margin: 0 auto;
+        margin-top: 40px;
     }
 
     .form-group {
@@ -91,6 +92,10 @@
     button {
         width: 50%;
         margin: 0 auto;
+    }
+
+    h3{
+        text-align: center;
     }
 
     table,

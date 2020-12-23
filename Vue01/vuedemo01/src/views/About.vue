@@ -4,29 +4,29 @@
 
 
     <div class="row">
-        <div class="col-7">
-            <ul>
-                <li>
-                    <h4>{{ $t('aboutInfo.Establishment.title') }}</h4>
-                    <h6>{{ $t('aboutInfo.Establishment.content') }}</h6>
-                </li>
-                <li>
-                    <h4>{{ $t('aboutInfo.Employees.title') }}</h4>
-                    <h6>{{ $t('aboutInfo.Employees.content') }}</h6>
-                </li>
-                <li>
-                    <h4>{{ $t('aboutInfo.Headquarter.title') }}</h4>
-                    <h6>{{ $t('aboutInfo.Headquarter.content') }}</h6>
-                </li>
-                <li>
-                    <h4>{{ $t('aboutInfo.Revenue.title') }}</h4>
-                    <h6>{{ $t('aboutInfo.Revenue.content') }}</h6>
-                </li>
-            </ul>
-        </div>
-        <div class="col-5"  >
-            <img alt="Vue logo" src="../assets/companymp4.png" style="width:100%">
-        </div>
+      <div class="col-6">
+        <ul>
+          <li>
+            <h4>{{ $t('aboutInfo.Establishment.title') }}</h4>
+            <h6>{{ $t('aboutInfo.Establishment.content') }}</h6>
+          </li>
+          <li>
+            <h4>{{ $t('aboutInfo.Employees.title') }}</h4>
+            <h6>{{ $t('aboutInfo.Employees.content') }}</h6>
+          </li>
+          <li>
+            <h4>{{ $t('aboutInfo.Headquarter.title') }}</h4>
+            <h6>{{ $t('aboutInfo.Headquarter.content') }}</h6>
+          </li>
+          <li>
+            <h4>{{ $t('aboutInfo.Revenue.title') }}</h4>
+            <h6>{{ $t('aboutInfo.Revenue.content') }}</h6>
+          </li>
+        </ul>
+      </div>
+      <div class="col-6">
+        <img alt="Vue logo" src="../assets/companymp4.png" style="width:100%">
+      </div>
     </div>
 
     <div class="content">

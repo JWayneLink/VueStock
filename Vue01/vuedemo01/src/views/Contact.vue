@@ -45,8 +45,9 @@
                     <p>{{ $t('contactInfo.Beijing.content') }}</p>
                 </div>
             </div>
+            <img src="../assets/contact.png" alt="" style="width:100%">
         </div>
-        <img src="../assets/contact.png" alt="" style="width:70%">
+
     </div>
 </template>
 

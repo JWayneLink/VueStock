@@ -18,7 +18,6 @@ export default new Vuex.Store({
         increment (state) {
         state.count++
         },
-
         // 切換語系設定
         setLang (state, value) {
             state.lang = value;

@@ -18,7 +18,8 @@
                 <!-- Navbar dropdowns -->
                 <b-nav-item-dropdown v-bind:text="$t('NavBar.Lang.title')">
                     <b-dropdown-item v-bind:data-lang="lan" href="#" right v-on:click="changelanguage"
-                        v-for="lan in $t('NavBar.Lang.langs')" :key="lan">{{ lan }}</b-dropdown-item>
+                        v-for="lan in $t('NavBar.Lang.langs')" :key="lan">{{ lan }}
+                    </b-dropdown-item>
                 </b-nav-item-dropdown>
 
                 <b-nav-item-dropdown v-bind:text="$t('NavBar.User.title')" right>
