@@ -14,6 +14,9 @@
                 <b-nav-item>
                     <router-link to="/dashboard"> {{ $t('NavBar.Dashboard') }} </router-link>
                 </b-nav-item>
+                <b-nav-item>
+                    <router-link to="/stock"> {{ $t('NavBar.Stock') }} </router-link>
+                </b-nav-item>
 
                 <!-- Navbar dropdowns -->
                 <b-nav-item-dropdown v-bind:text="$t('NavBar.Lang.title')">
@@ -26,7 +29,9 @@
                     <b-dropdown-item>
                         <router-link style="color:black;" to="/login">{{$t('NavBar.User.actions[0]')}}</router-link>
                     </b-dropdown-item>
-                    <b-dropdown-item href="#">{{$t('NavBar.User.actions[1]')}}</b-dropdown-item>
+                    <b-dropdown-item href="#">
+                         <router-link style="color:black;" to="/account">{{$t('NavBar.User.actions[1]')}}</router-link>
+                    </b-dropdown-item>
                     <b-dropdown-item href="#">{{$t('NavBar.User.actions[2]')}}</b-dropdown-item>
                 </b-nav-item-dropdown>
 
@@ -65,8 +70,9 @@
         methods: {
             changelanguage: function (event) {
                 let lang = event.target.getAttribute('data-lang');
-                lang = lang.toLowerCase();
 
+                debugger;
+                lang = lang.toLowerCase();
                 switch (lang) {
                     case '英文':
                         lang = 'en';

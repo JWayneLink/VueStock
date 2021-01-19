@@ -77,15 +77,22 @@
                         skill: 'npm install vuetify'
                     },
                     {
+                        skill: 'npm install vee-validate --save'
+                    },
+                    {
                         skill: 'npm install chart.js --save'
                     },
                     {
                         skill: 'npm install vue-chartjs chart.js --save'
+                    },
+                    {
+                        skill: 'npm install vue-typeahead-bootstrap --save'  
                     }
                 ],
                 API_title:"APIs",
                 dummyAPI: 
-                ["https://api.github.com/users", "https://api.covidtracking.com/v1/us/daily.json",
+                [
+                    "https://api.github.com/users", "https://api.covidtracking.com/v1/us/daily.json",
                     "https://jsonplaceholder.typicode.com/users"
                 ],
                 APImarks:["Github Users","COVID daily info","JSON placeholder users"]

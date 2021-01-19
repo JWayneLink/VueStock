@@ -3,9 +3,10 @@
         <h3> {{ this.$route.params.userId }} </h3>
 
         <img v-bind:src="avatar_url" class="circular--square" alt="avatar" />
-        <a v-bind:href="html_url" target="_blank"><img src="../assets/github.png" style="width:50px;display: inline-block;" /></a>
+        <a v-bind:href="html_url" target="_blank" style="margin-left:45%"><img src="../assets/github.png" style="width:50px;display: inline-block;padding:0px;" /></a>
         <span style="font-weight: bold;font-size: large;"> {{ name}} </span><br>
-        <span> {{location}} </span>
+        <span style="margin-left:48%"> {{location}} </span>
+
         <hr>
         <UsersTable></UsersTable>
     </div>
@@ -74,4 +75,9 @@
         border-bottom-right-radius: 50% 50%;
         border-bottom-left-radius: 50% 50%;
     }
+
+    h3{
+        text-align: center;
+    }
+
 </style>
