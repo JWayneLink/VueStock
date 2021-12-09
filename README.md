@@ -4,8 +4,6 @@
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/40432032/145328544-026a9c9e-0a69-4227-af54-10344aaf908a.png)
-
 <https://vuejs.org/>
 
 <ul>
@@ -18,35 +16,43 @@
     <li>
     npm install vue-i18n
   </li>
-    <li>
+  <li>
     npm install axios vue-axios --save
   </li>  
-      <li>
+  <li>
     npm install vuex --save
   </li>
-      <li>
+  <li>
     npm install vuetify
   </li>
-      <li>
+  <li>
     npm install vee-validate --save
   </li>
-      <li>
+  <li>
    npm install chart.js --save
   </li>
-      <li>
+  <li>
     npm install vue-chartjs chart.js --save
   </li>
-        <li>
+  <li>
     npm install vue-typeahead-bootstrap --save
   </li>
-        <li>
+  <li>
     npm install apexcharts --save
   </li>
-        <li>
+  <li>
     npm install vue3-apexcharts --save
   </li>
 </ul>
 
+
+  <li>
+    npm install apexcharts --save
+  </li>
+  
+  <li>
+    npm install vue3-apexcharts --save
+  </li>
 
 
 
