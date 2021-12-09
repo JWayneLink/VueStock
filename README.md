@@ -51,10 +51,14 @@
 
 |COVID-19 Status|
 |-------|:
-| ![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png) |
+|  |
 | 左2   |
 | 左3   |
 
-
+| COVID-19 Status |
+|-------|
+| ![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png)  |
+| 左2   |
+| 左3   |
 
 
