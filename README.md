@@ -49,16 +49,15 @@
 <hr>
 
 
-|COVID-19 Status|
-|-------|:
-|  |
-| 左2   |
-| 左3   |
-
 | COVID-19 Status |
 |-------|
 | ![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png)  |
-| 左2   |
-| 左3   |
+
+
+
+| STOCK API INFO |
+|-------|
+| ![image](https://user-images.githubusercontent.com/40432032/145330202-084baf07-0ada-408d-9c2b-f3b02a276538.png)  |
+
 
 
