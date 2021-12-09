@@ -49,6 +49,48 @@
 
 <hr>
 
+<H2>COVID-19 Dashboard Template</H3>
+```
+<template>
+    <div class="container" style="width:70%;padding:30px;">
+        <h1>COVID-19 Tracking Dashboard</h1>
+
+        <v-tabs v-model="tab" align-with-title>
+          <v-tab v-for="item in items" :key="item">
+            {{ item }}
+          </v-tab>
+            <v-tab-item>
+                <v-card flat>
+                    <v-card-text v-text="dailydeath"></v-card-text>
+                    <DeathLineChart></DeathLineChart>
+                </v-card>
+            </v-tab-item>
+
+            <v-tab-item>
+                <v-card flat>
+                    <v-card-text v-text="recovered"></v-card-text>
+                    <RecoveredLineChart></RecoveredLineChart>
+                </v-card>
+            </v-tab-item>
+
+            <v-tab-item>
+                <v-card flat>
+                    <v-card-text v-text="hospitialized"></v-card-text>
+                    <HoptializedLineChart></HoptializedLineChart>
+                </v-card>
+            </v-tab-item>
+
+            <v-tab-item>
+                <v-card flat>
+                    <v-card-text v-text="confirmedStatus"></v-card-text>
+                    <CovidStatusLineChart></CovidStatusLineChart>
+                </v-card>
+            </v-tab-item>
+        </v-tabs>
+    </div>
+</template>
+
+```
 
 | COVID-19 DAILY DEATH |
 |-------|
