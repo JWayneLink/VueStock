@@ -51,7 +51,7 @@
 
 <H2>COVID-19 Dashboard Template</H3>
 
-```javascript
+```html
 <template>
     <div class="container" style="width:70%;padding:30px;">
         <h1>COVID-19 Tracking Dashboard</h1>
@@ -90,7 +90,6 @@
         </v-tabs>
     </div>
 </template>
-
 ```
 
 | COVID-19 DAILY DEATH |
@@ -106,6 +105,39 @@
 | STOCK PRICE INFO |
 | ![image](https://user-images.githubusercontent.com/40432032/145331279-ed6c62b5-cc1f-4b8b-93b3-bb9d25f0f7c3.png) |
 
+
+<H2>Multi-language storage/H3>
+
+```javascript
+import Vue from 'vue'
+import Vuex from 'vuex'
+
+Vue.use(Vuex)
+
+export default new Vuex.Store({
+    user:null,
+    state: {
+        lang : null, // 存放使用者選用的語系
+        count: 0
+    },
+    getters: {
+        getLang: state => {
+          return state.lang;
+        }
+      },
+    mutations: {
+        increment (state) {
+        state.count++
+        },
+        // 切換語系設定
+        setLang (state, value) {
+            state.lang = value;
+        }
+    },
+    actions: {},
+    modules: {}
+});
+```
 
 | MULTI-LANG - JA (i18n) |
 |-------|
