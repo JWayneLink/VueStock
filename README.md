@@ -50,9 +50,11 @@
 <hr>
 
 
-| COVID-19 Status |
+| COVID-19 DAILY DEATH |
 |-------|
-| ![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png)  |
+| ![image](https://user-images.githubusercontent.com/40432032/145331064-39a365c3-e345-4186-8ff5-0149691669a0.png)  |
+| COVID-19 DAILY HOSPITALIZED |
+| ![image](https://user-images.githubusercontent.com/40432032/145331038-b65dc1b7-28d5-498d-acae-8cfe5c535bdf.png)  |
 
 
 | STOCK API INFO |
@@ -68,9 +70,9 @@
 
 | LOGIN VLIDATION |
 |-------|
-| ![image](https://user-images.githubusercontent.com/40432032/145330820-3273efaa-5453-4fe9-a18e-ad90f3883278.png)   |  中1  |   右1 |
+| ![image](https://user-images.githubusercontent.com/40432032/145330820-3273efaa-5453-4fe9-a18e-ad90f3883278.png)  |
 | MY GITHUB ACCOUNT |
-| ![image](https://user-images.githubusercontent.com/40432032/145330723-cdd5e1f1-a8cf-42f5-8cc1-19312d5cc73a.png)   |
+| ![image](https://user-images.githubusercontent.com/40432032/145330723-cdd5e1f1-a8cf-42f5-8cc1-19312d5cc73a.png)  |
 
 
 
