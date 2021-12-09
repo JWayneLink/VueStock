@@ -46,21 +46,19 @@
 </ul>
 
 
-  <li>
-    npm install apexcharts --save
-  </li>
-  
-  <li>
-    npm install vue3-apexcharts --save
-  </li>
+<hr>
 
 
 
+![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png)
 
 
 
-
-
+|COVID-19 Status| 表頭2 | 表頭3 |
+|-------|:-----:|------:|
+| ![image](https://user-images.githubusercontent.com/40432032/145329282-e5c06aeb-c6d4-4ae7-86c6-dddb565bbd33.png) |  中1  |   右1 |
+| 左2   |  中2  |   右2 |
+| 左3   |  中3  |   右3 |
 
 
 
