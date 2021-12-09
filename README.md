@@ -106,7 +106,7 @@
 | ![image](https://user-images.githubusercontent.com/40432032/145331279-ed6c62b5-cc1f-4b8b-93b3-bb9d25f0f7c3.png) |
 
 
-<H2>Multi-language storage/H3>
+<H2>Multi-language storage/H2>
 
 ```javascript
 import Vue from 'vue'
