@@ -5,12 +5,25 @@
 <hr>
 ![image](https://user-images.githubusercontent.com/40432032/145328544-026a9c9e-0a69-4227-af54-10344aaf908a.png)
 
+<ul>
+  <li>
+    npm install vue-router
+  </li>
+    <li>
+    npm install vue bootstrap-vue bootstrap
+  </li>
+    <li>
+    npm install vue-i18n
+  </li>
+    <li>
+    npm install axios vue-axios --save
+  </li>
+</ul>
 
 
-npm install vue-router
-npm install vue bootstrap-vue bootstrap
-npm install vue-i18n
-npm install axios vue-axios --save
+
+
+
 npm install vuex --save
 npm install vuetify
 npm install vee-validate --save
