@@ -57,14 +57,18 @@
 | ![image](https://user-images.githubusercontent.com/40432032/145331038-b65dc1b7-28d5-498d-acae-8cfe5c535bdf.png)  |
 
 
-| STOCK API INFO |
+| STOCK ITEM LIST |
 |-------|
-| ![image](https://user-images.githubusercontent.com/40432032/145330202-084baf07-0ada-408d-9c2b-f3b02a276538.png)  |
+|  ![image](https://user-images.githubusercontent.com/40432032/145331422-05b4e5c6-ef1a-4dc8-b56d-d2a205596da4.png) |
+| STOCK PRICE INFO |
+| ![image](https://user-images.githubusercontent.com/40432032/145331279-ed6c62b5-cc1f-4b8b-93b3-bb9d25f0f7c3.png) |
 
 
-| MULTI-LANG (i18n) |
+| MULTI-LANG - JA (i18n) |
 |-------|
-| ![image](https://user-images.githubusercontent.com/40432032/145330442-f9eee439-eb8e-4ae7-85bc-948567d6a712.png)   |
+| ![image](https://user-images.githubusercontent.com/40432032/145330442-f9eee439-eb8e-4ae7-85bc-948567d6a712.png) |
+| MULTI-LANG - EN (i18n) |
+| ![image](https://user-images.githubusercontent.com/40432032/145331504-3c7516d8-b470-441e-8175-193e5a213fa3.png) |
 
 
 
@@ -75,5 +79,5 @@
 | ![image](https://user-images.githubusercontent.com/40432032/145330723-cdd5e1f1-a8cf-42f5-8cc1-19312d5cc73a.png)  |
 
 
-
+<HR>
 
