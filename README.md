@@ -17,6 +17,31 @@
   </li>
     <li>
     npm install axios vue-axios --save
+  </li>  
+      <li>
+    npm install vuex --save
+  </li>
+      <li>
+    npm install vuetify
+  </li>
+      <li>
+    npm install vee-validate --save
+  </li>
+      <li>
+   npm install chart.js --save
+  </li>
+      <li>
+    npm install vue-chartjs chart.js --save
+  </li>
+  
+        <li>
+    npm install vue-typeahead-bootstrap --save
+  </li>
+        <li>
+    npm install apexcharts --save
+  </li>
+        <li>
+    npm install vue3-apexcharts --save
   </li>
 </ul>
 
@@ -24,11 +49,11 @@
 
 
 
-npm install vuex --save
-npm install vuetify
-npm install vee-validate --save
-npm install chart.js --save
-npm install vue-chartjs chart.js --save
-npm install vue-typeahead-bootstrap --save
-npm install apexcharts --save
-npm install vue3-apexcharts --save
+
+
+
+
+
+
+
+
