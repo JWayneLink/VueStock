@@ -50,7 +50,7 @@
 <hr>
 
 <H2>COVID-19 Dashboard Template</H3>
-```
+```javascript
 <template>
     <div class="container" style="width:70%;padding:30px;">
         <h1>COVID-19 Tracking Dashboard</h1>
