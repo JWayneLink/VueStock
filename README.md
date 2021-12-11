@@ -92,7 +92,7 @@
 </template>
 ```
 
-<H1>COVID-19 API</H1>
+<H4>COVID-19 API</H4>
 https://api.covidtracking.com/v1/us/daily.json
 
 | COVID-19 DAILY DEATH |
@@ -148,13 +148,13 @@ export default new Vuex.Store({
 | MULTI-LANG - EN (i18n) |
 | ![image](https://user-images.githubusercontent.com/40432032/145331504-3c7516d8-b470-441e-8175-193e5a213fa3.png) |
 
-<H1>COVID-19 API</H1>
+<H4>GITHUB USER API</H4>
 https://api.github.com/users
 
 | LOGIN VLIDATION |
 |-------|
 | ![image](https://user-images.githubusercontent.com/40432032/145330820-3273efaa-5453-4fe9-a18e-ad90f3883278.png)  |
-| CALL GITHUB USER API |
+| GET MY USER ACCOUNT INFO |
 | ![image](https://user-images.githubusercontent.com/40432032/145330723-cdd5e1f1-a8cf-42f5-8cc1-19312d5cc73a.png)  |
 
 
