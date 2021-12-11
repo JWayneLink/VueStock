@@ -92,6 +92,9 @@
 </template>
 ```
 
+<H1>COVID-19 API</H1>
+https://api.covidtracking.com/v1/us/daily.json
+
 | COVID-19 DAILY DEATH |
 |-------|
 | ![image](https://user-images.githubusercontent.com/40432032/145331064-39a365c3-e345-4186-8ff5-0149691669a0.png)  |
@@ -145,7 +148,7 @@ export default new Vuex.Store({
 | MULTI-LANG - EN (i18n) |
 | ![image](https://user-images.githubusercontent.com/40432032/145331504-3c7516d8-b470-441e-8175-193e5a213fa3.png) |
 
-
+<H1>COVID-19 API</H1>
 https://api.github.com/users
 
 | LOGIN VLIDATION |
